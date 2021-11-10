@@ -43,7 +43,7 @@ section {
     flex-wrap: wrap;
 }
 
-.grid__col-fourth {
+.grid__col-4 {
     width: 25%;
     padding-left: 15px;
     padding-right: 15px;
